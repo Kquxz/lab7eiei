@@ -22,7 +22,7 @@ int main(){
     getline(cin,day);
     cout << "Fahsai: " << day << "....that is OK!!! I'm looking forward to watching "<< mov << " with you.\n" << name <<":";
     getline(cin,baba);
-    cout << "Fahsai: 555+ see you "<< day << "." << " Bye Bye \\(^ ^)/";
+    cout << "Fhsai: 555+ see you "<< day << "." << " Bye Bye \\(^ ^)/";
     return 0;
 }
 
